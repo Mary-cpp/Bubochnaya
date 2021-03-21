@@ -6,47 +6,46 @@ Site for bubochnaya. This is the group project
 
 =========================
 
-    KinoJutt is a database of information related to films.
-    
+Bubochnaya is a database of information related to baking and information about our company.
 
-## The Latest Version
- 
+
+## Latest Version
+
 ==========================
 
-    Details of the latest version can be found, so try harder to find them
-    
+The changes are reflected in the comments.
 
-## Getting Started 
+
+## Getting started
 
 ====================
 
-    1. Run the project on the web server;
-    2. The End?
+To interact with the site, run the project on the web server.
+
 
 ## Documentation
-     
+
 ======================
 
-     The most up-to-date documentation can can be found if you make it.
-    
+The project is a web site that provides the work of users and a site that provides the work of users and operators.
+The task of the site is to ensure the relevance of ads placed on third-party sites. Ads belong to users who are registered on the site being created.
+
 
 ## Installation
-    
+
 =======================
 
-     Please tell us if you see the file called INSTALL, we have been looking for it too. 
+Install to use
 
-    
 ## Licensing
-    
+
 =====================
 
-    no license.
-    
-    
+License for buns
+
+
 ## Contacts
-    
+
 ====================
 
-    If you want freely available support for running project please contact us.
-
+Open the contacts tab
