@@ -20,11 +20,6 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="/" class="navbar-brand">Bubochnaya</a>
-                 <style>
-                    .navbar-brand{
-                         color: #FFFFCC   
-                    }
-                </style>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">     
@@ -34,8 +29,7 @@
                         </div>
                            <style>
                 .container{
-                    color: #FFFFCC  
-                    
+                    color: #00000              
                 }
 
                 </style>

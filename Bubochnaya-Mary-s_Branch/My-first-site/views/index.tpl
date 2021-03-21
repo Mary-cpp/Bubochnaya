@@ -1,11 +1,13 @@
 % rebase('layout.tpl', title='Welcome to Bubochnaya family', year=year)
 
 <div class="jumbotron">
-    <img src="static\images\putin.jfif" width = "300" height = "500" algin = "left" vspace = "5" hspace = "left"> 
+    <img src="static\images\putin.jfif" width = "350" height = "500" algin = "left" vspace = "5" hspace = "left"> 
     <p> </p>
     <h1>About us</h1>
-    <p class="lead">We work with the highest quality raw materials, without dyes and preservatives! Our bakery and confectionery products are handmade. In our assortment you can find legendary and all your favorite cakes such as potato cake, eclairs, count ruins, honey cake, classic sour cream cake and much more! </p>
-         <style>
+    <p class="lead">
+    <p align="left">We work with the highest quality raw materials, without dyes and preservatives! Our bakery and confectionery products are handmade. In our assortment you can find legendary and all your favorite cakes such as potato cake, eclairs, count ruins, honey cake, classic sour cream cake and much more! 
+    </p>
+     <style>
     .jumbotron{
         background-color: #FFCC33  
     }
@@ -30,7 +32,7 @@
         <h2>Service</h2>
         <p> You can enjoy sincerity and opennes of our perconal. </p>
         <p><a class="btn btn-default" href="/about">Learn more &raquo;</a></p>
-         <style>
+    <style>
     .row{
         background-color: #FFCC33  
     }
