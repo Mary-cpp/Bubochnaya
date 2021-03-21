@@ -1,6 +1,8 @@
 % rebase('layout.tpl', title='Welcome to Bubochnaya family', year=year)
 
 <div class="jumbotron">
+     <p algin = "right" hspace = "right">'The only thing missing in cooking is your appetite.'</p>
+     <p>Smeshariki</p>
     <img src="static\images\putin.jfif" width = "350" height = "500" algin = "left" vspace = "5" hspace = "left"> 
     <p> </p>
     <h1>About us</h1>
