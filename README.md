@@ -35,7 +35,7 @@ The task of the site is to ensure the relevance of ads placed on third-party sit
 
 =======================
 
-Install to use
+Install Visual Studio and start .sln file to use
 
 ## Licensing
 
