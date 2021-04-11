@@ -1,9 +1,9 @@
 % rebase('layout.tpl', title='Welcome to Bubochnaya family', year=year)
 
 <div class="jumbotron">
-     <p algin = "right" hspace = "right">'The only thing missing in cooking is your appetite.'</p>
+     <p algin = "left" hspace = "left">'The only thing missing in cooking is your appetite.'</p>
      <p>Smeshariki</p>
-    <img src="static\images\putin.jfif" width = "350" height = "500" algin = "left" vspace = "5" hspace = "left"> 
+    <img src="static\images\hleb.jpg" width = "750" height = "500" algin = "centre" vspace = "5" hspace = "7"> 
     <p> </p>
     <h1>About us</h1>
     <p class="lead">
@@ -37,8 +37,18 @@
     <style>
     .row{
         background-color: #FFCC33  
+
     }
     </style>
    
     </div>
+</div>
+
+<div class="btn btn-default">
+<h3> Ask a Question </h3>
+<form action="/home" method="post">
+        <p><textarea rows="2" cols="50" name="QUEST" placeholder="Your question"></textarea></p> 
+        <p><input type="text" size="50" name="ADRESS" placeholder="Your email"></p>
+        <p><input type="submit" value="Send"></p>
+</form>
 </div>
