@@ -32,10 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
-    <Compile Include="routes.py" />
-    <Compile Include="views\myform.py">
+    <Compile Include="myform.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="routes.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />
